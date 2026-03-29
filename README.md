@@ -3,6 +3,9 @@
 🔗 **Live Demo:**  
 https://dihhramon.github.io/bikcraft/
 
+<img src="./img/preview.gif" alt="Preview do projeto Bikcraft" />
+
+
 ---
 
 ## 💼 Sobre o projeto
